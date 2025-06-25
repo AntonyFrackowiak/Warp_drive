@@ -345,15 +345,15 @@ Il suffit de rentrer la section voulu pour que le programme correspondant s'exé
 Ce projet comprend les fichiers suivants :  
 
 📁 Warp_drive/
-- README.md               # This documentation file
-- LICENSE                 # License file (MIT)
+- README.md               
+- LICENSE                 
 
 📁 Program/
-📁 General_warp_drive/       # Generic warp drive framework (WIP)
-📁 Alcubierre/               # Main Alcubierre module
-- __main__.py           # Entry point
-- __init__.py           # Package initializer
-- Initial_data.py       # Initial configuration and visualization
+📁 General_warp_drive/      
+📁 Alcubierre/              
+- __main__.py           
+- __init__.py         
+- Initial_data.py       
 - caustic_constant_velocity.py
 - caustic_acceleration.py
 - Lagrange_constant_velocity.py
