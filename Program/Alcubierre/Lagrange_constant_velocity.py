@@ -215,7 +215,7 @@ plt.tight_layout()
 plt.show()
 
 """
-"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -345,7 +345,7 @@ plt.tight_layout()
 plt.show()
 
 """
-
+#To do 4 representation time of all variables
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -381,7 +381,6 @@ times = [0.0, 0.07, 0.25,0.4]
 
 # Création de la figure
 
-"""
 
 fig = plt.figure(figsize=(16, 4))
 for i, t in enumerate(times):
@@ -477,7 +476,6 @@ for i, t in enumerate(times):
     #ax.set_zlabel("pi_xx")
     ax.set_zlim(np.min(pi_xx)*1.1, np.max(pi_xx)*1.1)
 
-"""
 
 fig = plt.figure(figsize=(9, 4))
 for i, t in enumerate(times):
@@ -500,4 +498,4 @@ for i, t in enumerate(times):
 
 plt.tight_layout()
 plt.show()
-
+"""
