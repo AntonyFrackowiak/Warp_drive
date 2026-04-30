@@ -5,7 +5,7 @@ Author: Antony Frackowiak
 Master's Degree in Cosmology at Claude Bernard University Lyon 1.
 
 **Alcubierre**  
-This project is part of a Master's 2 degree internship focused on modeling the Alcubierre warp bubble — a theoretical model of faster-than-light propulsion in general relativity.
+Modelisation of the Alcubierre warp bubble — a theoretical model of faster-than-light propulsion in general relativity.
 
 
 ## Table of Contents
@@ -73,9 +73,7 @@ Just type in the desired section number, for example:
 	"1.1" or "1.2.3" or "2".
 	```
 
-## Project Structure
-
-This project includes the following files:  
+## Project Structure 
 
 📁 Warp_drive/
 - README.md               # This documentation file
@@ -271,14 +269,12 @@ This project is under the MIT license. See the LICENSE file for more details.
 
 
 
-
-
 #French version
 # Programme réalisé dans le cadre d'un stage de Master 2.
 Auteur :  Antony Frackowiak
 Master 2 de Cosmologie à l'université Claude Bernard Lyon 1. 
 
-Ce projet fait partie d'un stage de Master 2 axé sur la modélisation de la bulle de distorsion d'Alcubierre — un modèle théorique de propulsion supraluminique en relativité générale.
+Modélisation de la bulle de distorsion d'Alcubierre — un modèle théorique de propulsion supraluminique en relativité générale.
 
 **Alcubierre** 
 
