@@ -5,7 +5,7 @@ Author: Antony Frackowiak
 Master's Degree in Cosmology at Claude Bernard University Lyon 1.
 
 **Alcubierre**  
-Modelisation of the Alcubierre warp bubble — a theoretical model of faster-than-light propulsion in general relativity.
+Modelisation of the Alcubierre warp bubble — a theoretical model of propulsion in general relativity.
 
 Link to the M1 and M2 internship reports:
 
@@ -285,7 +285,7 @@ This project is under the MIT license. See the LICENSE file for more details.
 Auteur :  Antony Frackowiak
 Master 2 de Cosmologie à l'université Claude Bernard Lyon 1. 
 
-Modélisation de la bulle de distorsion d'Alcubierre — un modèle théorique de propulsion supraluminique en relativité générale.
+Modélisation de la bulle de distorsion d'Alcubierre — un modèle théorique de propulsion en relativité générale.
 
 **Alcubierre** 
 
