@@ -4,10 +4,12 @@
 Author: Antony Frackowiak  
 Master's Degree in Cosmology at Claude Bernard University Lyon 1.
 
+Publlished Article: Thomas Buchert and Antony Frackowiak, Novel Realizations of Warp Drive Spacetimes as Solutions of General Relativity, Universe, https://doi.org/10.3390/universe1010000 
+
 **Alcubierre**  
 Modelisation of the Alcubierre warp bubble — a theoretical model of propulsion in general relativity.
 
-Link to the M1 and M2 internship reports:
+Link to the M1 and M2 internship reports (supervised by Prof. Thomas Buchert):
 
 - Frackowiak, A. Characterization and modeling of the properties of the Alcubierre metric in 996
 an inertial approach. Internship Report Master 1, May-June 2024, Université Claude Bernard, 997
@@ -15,7 +17,7 @@ Lyon (France). (12 pages)
 https://antonyfrackowiak.github.io/Personalpage/Internship_report_M1.pdf
 
 - Frackowiak, A. Novel realizations of warp drive spacetimes assolutions of general relativity. 999
-Internship Report Master 2, March-June 2025, Université Claude Bernard, Lyon (France). (32 1000
+Internship Report Master 2, March-June 2025, Université Claude Bernard, Lyon (France). (32
 pages)
 https://antonyfrackowiak.github.io/Personalpage/M2_Internship_report%20Antony%20Frackowiak.pdf
 
