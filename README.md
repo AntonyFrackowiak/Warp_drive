@@ -4,7 +4,8 @@
 Author: Antony Frackowiak  
 Master's Degree in Cosmology at Claude Bernard University Lyon 1.
 
-Publlished Article: Thomas Buchert and Antony Frackowiak, Novel Realizations of Warp Drive Spacetimes as Solutions of General Relativity, Universe, https://doi.org/10.3390/universe1010000 
+Publlished Article: Thomas Buchert and Antony Frackowiak, Novel Realizations of Warp Drive Spacetimes as Solutions of General Relativity, Universe, 
+https://doi.org/10.3390/universe12050132
 
 **Alcubierre**  
 Modelisation of the Alcubierre warp bubble — a theoretical model of propulsion in general relativity.
